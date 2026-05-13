@@ -194,8 +194,8 @@ MonoBehaviour:
   AnimationManager: {fileID: 0}
   SleepManager: {fileID: 0}
   DialogueTrigger: {fileID: 0}
-  WakeUpSound: {fileID: 8300000, guid: 1656419308ac8514ca9860ba67bcd17d, type: 3}
-  Interact: {fileID: 8300000, guid: e7686901f4f0cf04c8ea374646c87c3c, type: 3}
+  WakeUpSound: {fileID: 8300000, guid: 72eefa07447554d24a710ebd6f96643b, type: 3}
+  Interact: {fileID: 8300000, guid: 4280f308ce87c4af198dc586795dbc06, type: 3}
 --- !u!65 &3524980429216325752
 BoxCollider:
   m_ObjectHideFlags: 0

@@ -51,7 +51,7 @@
             "id": 6,
             "speaker": "sorcerer",
             "text": "Me? Oh, no one. I am just a creature.",
-            "dialogueAudioClip": "SorcererSounds_5",
+            "dialogueAudioClip": "SorcererSounds_3",
             "next_dialogue": 7
         },
         {
@@ -77,7 +77,7 @@
             "id": 10,
             "speaker": "sorcerer",
             "text": "Are you by any chance what they call a 'Siffler'?",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "choices": [
                 {
                     "text": "Yes I am.",
@@ -119,7 +119,7 @@
             "id": 15,
             "speaker": "sorcerer",
             "text": "Fascinating, the dark forces that run savages on this island could not get a hold of you.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 16
         },
         {
@@ -132,7 +132,7 @@
             "id": 17,
             "speaker": "sorcerer",
             "text": "Oh, but you are a Siffler.",
-            "dialogueAudioClip": "SorcererSounds_5",
+            "dialogueAudioClip": "SorcererSounds_3",
             "next_dialogue": 18
         },
         {
@@ -164,7 +164,7 @@
             "id": 22,
             "speaker": "sorcerer",
             "text": "I feel something hiding not very far from here. I can hear its whistle.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 23
         },
         {
@@ -202,7 +202,7 @@
             "id": 28,
             "speaker": "sorcerer",
             "text": "Mmmm. Very well, I'll pass this talisman onto you.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 29
         },
         {
@@ -228,7 +228,7 @@
             "id": 32,
             "speaker": "sorcerer",
             "text": "How good for me.",
-            "dialogueAudioClip": "SorcererSounds_5",
+            "dialogueAudioClip": "SorcererSounds_3",
             "next_dialogue": 33
         },
         {
@@ -331,7 +331,7 @@
             "id": 45,
             "speaker": "sorcerer",
             "text": "My name you ask? A truly wise question.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 46
         },
         {
@@ -351,7 +351,7 @@
             "speaker": "sorcerer",
             "text": "Now, good luck, little hero!",
             "alternative_text": "Still waiting, and so are they. Go on, hero.",
-            "dialogueAudioClip": "SorcererSounds_5",
+            "dialogueAudioClip": "SorcererSounds_3",
             "next_dialogue": 49,
             "new_achievements": [
                 "GOOD_LUCK_LITTLE_HERO"
@@ -406,7 +406,7 @@
             "id": 55,
             "speaker": "sorcerer",
             "text": "Must be sad seeing your people turn into those malicious entities.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 56
         },
         {
@@ -478,14 +478,14 @@
             "id": 65,
             "speaker": "sorcerer",
             "text": "... Of course. Of course it’s you.",
-            "dialogueAudioClip": "SorcererSounds_4",
+            "dialogueAudioClip": "SorcererSounds_2",
             "next_dialogue": 66
         },
         {
             "id": 66,
             "speaker": "sorcerer",
             "text": "Farwell, UASU.",
-            "dialogueAudioClip": "SorcererSounds_5",
+            "dialogueAudioClip": "SorcererSounds_3",
             "is_end": true,
             "new_achievements": [
                 "WHAT_IS_CALLING_ME_?"

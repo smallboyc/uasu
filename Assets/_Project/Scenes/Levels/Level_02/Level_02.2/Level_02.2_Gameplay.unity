@@ -250,6 +250,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -1249330753635647197, guid: 28e88a6d3deb84fa4bca9dfd86676ea0, type: 3}
+      propertyPath: ItemCatch
+      value: 
+      objectReference: {fileID: 8300000, guid: e9c188223faed4ed2ad0079c749c09b7, type: 3}
+    - target: {fileID: -1249330753635647197, guid: 28e88a6d3deb84fa4bca9dfd86676ea0, type: 3}
       propertyPath: ElementParticles
       value: 
       objectReference: {fileID: 2118620056}
@@ -419,6 +423,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FlowerElement
       objectReference: {fileID: 0}
+    - target: {fileID: 971437835208971335, guid: 6f6f8fd6aa4734325a85f7f32034ba2c, type: 3}
+      propertyPath: ItemCatch
+      value: 
+      objectReference: {fileID: 8300000, guid: e9c188223faed4ed2ad0079c749c09b7, type: 3}
     - target: {fileID: 971437835208971335, guid: 6f6f8fd6aa4734325a85f7f32034ba2c, type: 3}
       propertyPath: ElementParticles
       value: 
@@ -1361,7 +1369,7 @@ PrefabInstance:
     - target: {fileID: 56662243398240722, guid: ac2ccff9dde394cae9bed86d30dd7969, type: 3}
       propertyPath: ItemCatch
       value: 
-      objectReference: {fileID: 8300000, guid: e503a1d4d7e6de84e8737abbcff92b8b, type: 3}
+      objectReference: {fileID: 8300000, guid: e9c188223faed4ed2ad0079c749c09b7, type: 3}
     - target: {fileID: 56662243398240722, guid: ac2ccff9dde394cae9bed86d30dd7969, type: 3}
       propertyPath: ElementParticles
       value: 
@@ -1796,6 +1804,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3962451980435579040, guid: d9e5e80e7a90ed14bb95fbe3e87224a2, type: 3}
+      propertyPath: Checkpoint
+      value: 
+      objectReference: {fileID: 8300000, guid: b0b52ce64c36747bea36e1bb47da9335, type: 3}
     - target: {fileID: 3962451980435579040, guid: d9e5e80e7a90ed14bb95fbe3e87224a2, type: 3}
       propertyPath: CheckpointParticles
       value: 
