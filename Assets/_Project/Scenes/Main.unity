@@ -1038,6 +1038,10 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7251106438116905266, guid: 6104fc2fb8a8542ac8e03f0551c0798e, type: 3}
+      propertyPath: music
+      value: 
+      objectReference: {fileID: 8300000, guid: 0b6dfa07e39e64d649fcb2638dcc5f5b, type: 3}
     - target: {fileID: 7384667872989389514, guid: 6104fc2fb8a8542ac8e03f0551c0798e, type: 3}
       propertyPath: m_IsActive
       value: 1
