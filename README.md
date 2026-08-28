@@ -2,30 +2,17 @@
 
 A Casca Studio video game.
 
-## Scene Structure
+## Game Demo
 
-### Main.unity:
+- Checkout the [Game Demo](https://www.youtube.com/watch?v=vaYAowGwGuM) on YouTube.
 
-Contains the main menu, options, and persistent systems (audio, saves, scene management).
-Does not contain gameplay or level-specific elements.
+## The Art of Uasu
 
+![Game Demo](./docs/art_of_uasu_poster.png)
+- Checkout concept artist artstation to discover all about [The Art of Uasu ](https://www.artstation.com/artwork/bgyRGr).
 
-### Level_X_Main.unity:
+## Game Design Document
 
-Empty scene that loads additively : 
-- Level_X_Gameplay.unity
-- Level_X_UI.unity
-- Level_X_Environment.unity
+Every details about the game are inside a GDD (Game Design Document).
 
-#### Level_X_Gameplay.unity:
-
-Contains characters, core mechanics, and interactions.
-Use prefabs for enemies, interactive objects, etc.
-
-#### Level_X_UI.unity:
-
-Contains the HUD, inventory, and level-specific UI elements.
-
-#### Level_X_Environment.unity:
-
-Contains decor, platforms, visual effects, and manually placed enemies.
+- Checkout the [Game Design Document](./docs/uasu_gdd.pdf).
