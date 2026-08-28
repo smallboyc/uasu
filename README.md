@@ -1,31 +1,23 @@
 # Uasu
 
-A Casca Studio video game.
+**Uasu** is a **French-Spanish** collaboration dedicated to creating a **video game**, combining tools such as Notion, Blender, Photoshop, and Unity.
 
-## Scene Structure
+<p align="center">
+  <img src="./docs/uasu_icon.png" alt="Uasu Icon" width="500">
+</p>
 
-### Main.unity:
+## Game Demo
 
-Contains the main menu, options, and persistent systems (audio, saves, scene management).
-Does not contain gameplay or level-specific elements.
+* Checkout the [Game Demo](https://www.youtube.com/watch?v=vaYAowGwGuM) on YouTube.
 
+## The Art of Uasu
 
-### Level_X_Main.unity:
+![The Art of Uasu Poster](./docs/art_of_uasu_poster.png)
 
-Empty scene that loads additively : 
-- Level_X_Gameplay.unity
-- Level_X_UI.unity
-- Level_X_Environment.unity
+* Checkout concept artist artstation to discover all about [The Art of Uasu](https://www.artstation.com/artwork/bgyRGr).
 
-#### Level_X_Gameplay.unity:
+## Game Design Document
 
-Contains characters, core mechanics, and interactions.
-Use prefabs for enemies, interactive objects, etc.
+Every details about the game are inside a GDD (Game Design Document).
 
-#### Level_X_UI.unity:
-
-Contains the HUD, inventory, and level-specific UI elements.
-
-#### Level_X_Environment.unity:
-
-Contains decor, platforms, visual effects, and manually placed enemies.
+* Checkout the [Game Design Document](./docs/uasu_gdd.pdf).
