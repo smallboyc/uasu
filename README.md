@@ -2,14 +2,16 @@
 
 A Casca Studio video game.
 
+![Uasu Icon](./docs/uasu_icon.png)
+
 ## Game Demo
 
 - Checkout the [Game Demo](https://www.youtube.com/watch?v=vaYAowGwGuM) on YouTube.
 
 ## The Art of Uasu
 
-![Game Demo](./docs/art_of_uasu_poster.png)
-- Checkout concept artist artstation to discover all about [The Art of Uasu ](https://www.artstation.com/artwork/bgyRGr).
+![The Art of Uasu Poster](./docs/art_of_uasu_poster.png)
+- Checkout concept artist artstation to discover all about [The Art of Uasu](https://www.artstation.com/artwork/bgyRGr).
 
 ## Game Design Document
 
